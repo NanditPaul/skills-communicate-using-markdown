@@ -3,3 +3,5 @@
 
 
 Learning to create a different size header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
